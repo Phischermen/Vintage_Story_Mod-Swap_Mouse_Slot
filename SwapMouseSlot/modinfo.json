@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "swapmouseslot",
+    "name": "Swap Mouse Slot",
+    "authors": [
+        "Phischermen"
+    ],
+    "description": "Adds a hotkey to swap the mouse slot with the active hotbar slot.",
+    "version": "1.0.0",
+    "side": "Client",
+    "dependencies": {
+        "game": ""
+    }
+}
